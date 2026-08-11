@@ -53,25 +53,21 @@ I'm **Kambampati Dinesh Kiran**, a passionate **Python Full Stack Developer** wi
 - **Description**: A complete end-to-end Django web application with user authentication, database management, and responsive UI
 - **Tech Stack**: Django, Python, HTML5, CSS3, JavaScript, Bootstrap, PostgreSQL/MySQL
 - **Features**: User authentication, CRUD operations, real-time validation, responsive design
-- **Link**: [View Repository](#)
 
 ### 🤖 Machine Learning Model
 - **Description**: A practical ML solution using scikit-learn, pandas, and numpy for data analysis and prediction
 - **Tech Stack**: Python, Scikit-Learn, Pandas, NumPy, Matplotlib
 - **Features**: Data preprocessing, model training, evaluation metrics, visualization
-- **Link**: [View Repository](#)
 
 ### 🧠 Deep Learning Project
 - **Description**: Neural network implementation for image classification or NLP task using TensorFlow/PyTorch
 - **Tech Stack**: Python, TensorFlow/PyTorch, NumPy, Matplotlib
 - **Features**: CNN/RNN architecture, training pipeline, performance optimization
-- **Link**: [View Repository](#)
 
 ### 🔌 RESTful API Backend
 - **Description**: A robust Django REST API with proper documentation and authentication
 - **Tech Stack**: Django, Django REST Framework, Python, SQL, Postman
 - **Features**: API endpoints, authentication tokens, error handling, API documentation
-- **Link**: [View Repository](#)
 
 ---
 
