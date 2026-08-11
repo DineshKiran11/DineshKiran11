@@ -47,15 +47,6 @@ I'm **Kambampati Dinesh Kiran**, a passionate **Python Full Stack Developer** wi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshKiran11&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshKiran11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 ### 📱 Full Stack Django Web Application
@@ -81,14 +72,6 @@ I'm **Kambampati Dinesh Kiran**, a passionate **Python Full Stack Developer** wi
 - **Tech Stack**: Django, Django REST Framework, Python, SQL, Postman
 - **Features**: API endpoints, authentication tokens, error handling, API documentation
 - **Link**: [View Repository](#)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshKiran11&theme=radical&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ---
 
